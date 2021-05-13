@@ -1,0 +1,8 @@
+2021/05/13 15:55:00 [18455,18455] WARNING: null(0): EventId=30128 Priority=WARNING (E)Socket: 0xe7e660, Error BatchSize while reading header
+
+2021/05/13 15:55:46 [18455,18455] WARNING: null(0): EventId=30128 Priority=WARNING (E)Socket: 0xe7c4e0, Error BatchSize while reading header
+
+2021/05/13 15:56:32 [18455,18455] WARNING: null(0): EventId=30128 Priority=WARNING (E)Socket: 0xe7a850, Error BatchSize while reading header
+
+2021/05/13 15:57:36 [18455,18455] WARNING: null(0): EventId=30128 Priority=WARNING (E)Socket: 0xe7f760, Error BatchSize while reading header
+
